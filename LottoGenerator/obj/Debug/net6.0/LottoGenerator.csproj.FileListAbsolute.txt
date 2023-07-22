@@ -1,0 +1,30 @@
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\LottoGenerator\bin\Debug\net6.0\LottoGenerator.exe
+C:\Users\Laptop\source\repos\LottoGenerator\bin\Debug\net6.0\LottoGenerator.deps.json
+C:\Users\Laptop\source\repos\LottoGenerator\bin\Debug\net6.0\LottoGenerator.runtimeconfig.json
+C:\Users\Laptop\source\repos\LottoGenerator\bin\Debug\net6.0\LottoGenerator.dll
+C:\Users\Laptop\source\repos\LottoGenerator\bin\Debug\net6.0\LottoGenerator.pdb
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.dll
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\refint\LottoGenerator.dll
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.pdb
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\LottoGenerator.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\LottoGenerator\obj\Debug\net6.0\ref\LottoGenerator.dll
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\bin\Debug\net6.0\LottoGenerator.exe
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\bin\Debug\net6.0\LottoGenerator.deps.json
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\bin\Debug\net6.0\LottoGenerator.runtimeconfig.json
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\bin\Debug\net6.0\LottoGenerator.dll
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\bin\Debug\net6.0\LottoGenerator.pdb
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.csproj.AssemblyReference.cache
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.AssemblyInfoInputs.cache
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.AssemblyInfo.cs
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.dll
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\refint\LottoGenerator.dll
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.pdb
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\LottoGenerator.genruntimeconfig.cache
+C:\Users\MariuszSznajder\OneDrive - Macrobond Financial\Desktop\LottoGenerator\obj\Debug\net6.0\ref\LottoGenerator.dll
